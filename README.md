@@ -14,3 +14,5 @@ Tool list:
   API,
   QTSPIM,
   Node-RED
+  Siri
+  
