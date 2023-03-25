@@ -12,4 +12,4 @@ Tool list:
   AWS MQTT Broker and DB,
   Pub/Sub for Control and Policies,
   API,
-  
+  QTSPIM,
