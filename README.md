@@ -4,6 +4,7 @@ Using ESP32's equipped with temperature and proximity sensors so we can keep tra
 
 https://sistemaupr-my.sharepoint.com/:x:/g/personal/andrea_rodriguez46_upr_edu/EZAsuQzGMZRDtc7rf9ctwGUBZ2awzz96_nVbxMWBcdC5SA?e=1T0IBc
 
+https://docs.google.com/document/d/1dqxFMYOm6nAmQfMH2CaQjz06rJAwgd8i5TOuYlrgGhc/edit?usp=sharing
 
 Tool list:
   VS Code,
