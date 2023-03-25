@@ -13,3 +13,4 @@ Tool list:
   Pub/Sub for Control and Policies,
   API,
   QTSPIM,
+  Node-RED
